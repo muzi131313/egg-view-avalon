@@ -1,0 +1,19 @@
+{
+    "name": "egg-view-avalon",
+    "eggPlugin": {
+        "name": "avalon"
+    },
+    "keywords": [
+        "egg",
+        "egg-plugin",
+        "egg-view",
+        "avalon"
+    ],
+    "dependencies": {
+        "avalon2": "^2.2.9"
+    },
+    "devDependencies": {
+        "eslint": "^4.8.0",
+        "eslint-config-egg": "^5.1.1"
+    }
+}
